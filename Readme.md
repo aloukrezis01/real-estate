@@ -6,39 +6,32 @@ Welcome to our exploratory data analysis (EDA) project on historical real estate
 ## Project Overview
 The goal of this project is to provide insights into the real estate pricing trends over the years in some of the most prominent areas of the United States. We focus on metropolitan areas that are economic and cultural hubs, including:
     
-- **Northeastern US:**
-  - New York City Metro (NY, NJ, CT)
-      - Central and Northern New Jersey
-          - Bergen County
-          - Essex County
-          - Hudson County
-          - Hunterdon County
-          - Mercer County
-          - Middlesex County
-          - Monmouth County
-          - Morris County
-          - Ocean County
-          - Passaic County
-          - Somerset County
-          - Sussex County
-          - Union County
-      - NYC, Long Island & Westchester
-          - Nassau County
-          - Queens County
-          - Suffolk County
-          - Westchester County
-      - Lower NY & Hudson River
-          - Putnam County
-          - Rockland County
-          - Dutchess County
-          - Orange County
-          - Sullivan County
-      - Eastern & Southeastern Connecticut
+**Northeastern US:**
+  - **New York City Metro (NY, NJ, CT)**
+      - **Central and Northern New Jersey**
+          - Bergen County, Essex County, Hudson County, Hunterdon County, Mercer County, Middlesex County, Monmouth County, Morris County, Ocean County, Passaic County, Somerset County, Sussex County Union County
+      - **New York City, Long Island & Westchester County** 
+          - Nassau County, Queens County, Suffolk County, Westchester County
+      - **Lower New York & Hudson River**
+          - Putnam County, Rockland County, Dutchess County, Orange County, Sullivan County
+      - **Bridgeport-Stamford-Norwalk Metro**
           - Fairfield County
-  - Boston Metro (MA, RI, NH)
-      - Massachusetts
-      - Rhode Island
-      - New Hampshire
+  - **Boston Metro (MA, NH, RI)**
+      - **Massachusetts**
+          -  **Boston-Cambridge-Newton Metro**
+              - Essex County, Middlesex County, Norfolk County, Plymouth County, Suffolk County
+          - **Worcester-Metro**
+              - 
+      - **New Hampshire**
+          - **Boston-Cambridge-Newton Metro**
+              - Rockingham County, Strafford County
+        - **Manchester-Nashua Metro**
+            - Hillsborough County 
+              
+      - **Rhode Island**
+          - **Providence-Warwick Metro**
+              - 
+ 
  
 - **Mid-Atlantic:**
   - Washington D.C./Baltimore Metro (VA)
