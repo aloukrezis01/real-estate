@@ -54,15 +54,25 @@ The goal of this project is to provide insights into the real estate pricing tre
 
 
 **Southern US:**
-- Texas (TX)
-  - Dallas/Fort Worth Metro
+
+
+**Texas (TX)**
+  - **Dallas/Fort Worth Metro**
+      - **Dallas-Fort Worth-Arlington**
+          - Collin County, Dallas County, Denton County, Ellis County, Hunt County,
   - Houston Metro
   - Austin/San Antonio Metro
     
-- Florida (FL)
-  - Miami/ Ft. Lauderdale Metro
-  - Orlando Metro
-  - Tampa Metro
+**Florida (FL)**
+  - **Miami/ Ft. Lauderdale Metro**
+      - **Miami-Fort Lauderdale-Pompano Beach**
+          - Broward County, Miami-Dade County, Palm Beach County
+  - **Orlando Metro**
+      - **Orlando-Kissimmee-Sanford**
+          - Lake County, Orange County, Osceola County, Seminole County
+  - **Tampa Metro**
+      - **Tampa-St. Petersburg-Clearwater**
+          - Hernando County, Hilsborough County, Pasco County, Pinellas County, 
  
 **West Coast:**
   - California (CA)
