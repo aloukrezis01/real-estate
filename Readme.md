@@ -8,20 +8,31 @@ The goal of this project is to provide insights into the real estate pricing tre
     
 **Northeastern US:**
   - **New York City Metro (NY, NJ, CT)**
-      - **Central and Northern New Jersey**
-          - Bergen County, Essex County, Hudson County, Hunterdon County, Mercer County, Middlesex County, Monmouth County, Morris County, Ocean County, Passaic County, Somerset County, Sussex County Union County
+      
+    - **New York**
       - **New York City, Long Island & Westchester County** 
           - Nassau County, Queens County, Suffolk County, Westchester County
       - **Lower New York & Hudson River**
           - Putnam County, Rockland County, Dutchess County, Orange County, Sullivan County
+
+    - **New Jersey**
+      - **Northern New Jersey**
+        - Bergen County, Essex County, Hudson County, Morris County, Passaic County, Sussex County
+        
+      - **Central New Jersey**
+          - Hunterdon County, Mercer County, Middlesex County, Monmouth County,  Ocean County, Somerset County, Union County
+        
+    - **Connecticut**
       - **Bridgeport-Stamford-Norwalk Metro**
           - Fairfield County
-  - **Boston Metro (MA, NH, RI)**
+
+  - **Boston Metro (MA, NH, RI, CT)**
       - **Massachusetts**
           -  **Boston-Cambridge-Newton Metro**
               - Essex County, Middlesex County, Norfolk County, Plymouth County, Suffolk County
           - **Worcester-Metro**
-              - 
+            - Worcester County
+          
       - **New Hampshire**
           - **Boston-Cambridge-Newton Metro**
               - Rockingham County, Strafford County
@@ -30,14 +41,19 @@ The goal of this project is to provide insights into the real estate pricing tre
               
       - **Rhode Island**
           - **Providence-Warwick Metro**
-              - 
+              - Bristol County, Kent County, Newport County, Providence County, Washington County
+
+    - **Connecticut**
+      - **Worcester Metro**
+          - Windham County
+        
  
  
-- **Mid-Atlantic:**
+**Mid-Atlantic:**
   - Washington D.C./Baltimore Metro (VA)
 
 
-- **Southern US:**
+**Southern US:**
 - Texas (TX)
   - Dallas/Fort Worth Metro
   - Houston Metro
@@ -48,7 +64,7 @@ The goal of this project is to provide insights into the real estate pricing tre
   - Orlando Metro
   - Tampa Metro
  
-- **West Coast:**
+**West Coast:**
   - California (CA)
       - Los Angeles Metro
       - San Diego Metro
