@@ -50,7 +50,19 @@ The goal of this project is to provide insights into the real estate pricing tre
  
  
 **Mid-Atlantic:**
-  - Washington D.C./Baltimore Metro (VA)
+
+**Washington D.C./Baltimore Metro (DC, VA, MD, WV)**
+
+Washington DC
+
+Virginia
+- Alexandria City, Arlington County, Clarke County, Culpeper County, Fairfax County, Fauquier County, Loudon County, Louisa County, Madison County, Manassas Park City, Orange County, Prince William County, Rappahannock County, Sehandoah County, Spotsylvania County, Stafford County, Warren County
+
+Maryland
+
+West Virginia
+
+- **Washington-Arlington-Alexandria, DC-VA-MD-WV**
 
 
 **Southern US:**
@@ -59,9 +71,16 @@ The goal of this project is to provide insights into the real estate pricing tre
 **Texas (TX)**
   - **Dallas/Fort Worth Metro**
       - **Dallas-Fort Worth-Arlington**
-          - Collin County, Dallas County, Denton County, Ellis County, Hunt County,
-  - Houston Metro
-  - Austin/San Antonio Metro
+          - Collin County, Dallas County, Denton County, Ellis County, Hunt County, Jack County, Johnson County, Kaufman County, Montague County, Parker County, Rockwall County, Tarrant County, Van Zandt County, Wise County
+  - **Houston Metro**
+      - **Houston-The Woodlands-Sugar Land**
+          -  Austin County, Brazoria County, Chambers County, Colorado County, Fayette County, Fort Bend County, Galveston County, Harris County, Liberty County, Mongomery County, San Jacinto County, Waller County
+  - **Austin Metro**
+      - **Austin-Round Rock-Georgetown**
+          - Bastrop County, Burnet County, Caldwell County, Gonzales County, Hays County, Milam County, Travis County, Williamson County
+  - **San Antonio Metro**
+      - **San Antonio-New Braunfels**
+          - Atascosa County, Bandera County, Bexar County, Blanco County, Comal County, Gonzales County, Guadalupe County, Kendall County, Medina County, Wilson County
     
 **Florida (FL)**
   - **Miami/ Ft. Lauderdale Metro**
