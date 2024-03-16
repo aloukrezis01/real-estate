@@ -14,7 +14,7 @@ Welcome to our exploratory data analysis (EDA) project on historical real estate
 | CO      | Colorado        |       |
 | CT      | Connecticut     |   Yes    |
 | DE      | Delaware        |       |
-| FL      | Florida         |       |
+| FL      | Florida         |   Yes    |
 | GA      | Georgia         |       |
 | HI      | Hawaii          |       |
 | ID      | Idaho           |       |
@@ -25,8 +25,8 @@ Welcome to our exploratory data analysis (EDA) project on historical real estate
 | KY      | Kentucky        |       |
 | LA      | Louisiana       |       |
 | ME      | Maine           |       |
-| MD      | Maryland        |       |
-| MA      | Massachusetts   |       |
+| MD      | Maryland        |   Yes    |
+| MA      | Massachusetts   |   Yes    |
 | MI      | Michigan        |       |
 | MN      | Minnesota       |       |
 | MS      | Mississippi     |       |
@@ -34,26 +34,26 @@ Welcome to our exploratory data analysis (EDA) project on historical real estate
 | MT      | Montana         |       |
 | NE      | Nebraska        |       |
 | NV      | Nevada          |       |
-| NH      | New Hampshire   |       |
-| NJ      | New Jersey      |       |
+| NH      | New Hampshire   |   Yes    |
+| NJ      | New Jersey      |   Yes   |
 | NM      | New Mexico      |       |
-| NY      | New York        |       |
+| NY      | New York        |   Yes    |
 | NC      | North Carolina  |       |
 | ND      | North Dakota    |       |
 | OH      | Ohio            |       |
 | OK      | Oklahoma        |       |
 | OR      | Oregon          |       |
 | PA      | Pennsylvania    |       |
-| RI      | Rhode Island    |       |
+| RI      | Rhode Island    |   Yes    |
 | SC      | South Carolina  |       |
 | SD      | South Dakota    |       |
 | TN      | Tennessee       |       |
-| TX      | Texas           |       |
+| TX      | Texas           |   Yes    |
 | UT      | Utah            |       |
 | VT      | Vermont         |       |
-| VA      | Virginia        |       |
+| VA      | Virginia        |   Yes    |
 | WA      | Washington      |       |
-| WV      | West Virginia   |       |
+| WV      | West Virginia   |   Yes    |
 | WI      | Wisconsin       |       |
 | WY      | Wyoming         |       |
 
