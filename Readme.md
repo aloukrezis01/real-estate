@@ -3,6 +3,62 @@
 ## Introduction
 Welcome to our exploratory data analysis (EDA) project on historical real estate prices. In this project, we delve into the real estate market trends across several key regions in the United States.
 
+
+| Acronym | Full Name       |Included|
+|---------|-----------------|-------|
+| AL      | Alabama         |       |
+| AK      | Alaska          |       |
+| AZ      | Arizona         |       |
+| AR      | Arkansas        |       |
+| CA      | California      |   Yes    |
+| CO      | Colorado        |       |
+| CT      | Connecticut     |   Yes    |
+| DE      | Delaware        |       |
+| FL      | Florida         |       |
+| GA      | Georgia         |       |
+| HI      | Hawaii          |       |
+| ID      | Idaho           |       |
+| IL      | Illinois        |       |
+| IN      | Indiana         |       |
+| IA      | Iowa            |       |
+| KS      | Kansas          |       |
+| KY      | Kentucky        |       |
+| LA      | Louisiana       |       |
+| ME      | Maine           |       |
+| MD      | Maryland        |       |
+| MA      | Massachusetts   |       |
+| MI      | Michigan        |       |
+| MN      | Minnesota       |       |
+| MS      | Mississippi     |       |
+| MO      | Missouri        |       |
+| MT      | Montana         |       |
+| NE      | Nebraska        |       |
+| NV      | Nevada          |       |
+| NH      | New Hampshire   |       |
+| NJ      | New Jersey      |       |
+| NM      | New Mexico      |       |
+| NY      | New York        |       |
+| NC      | North Carolina  |       |
+| ND      | North Dakota    |       |
+| OH      | Ohio            |       |
+| OK      | Oklahoma        |       |
+| OR      | Oregon          |       |
+| PA      | Pennsylvania    |       |
+| RI      | Rhode Island    |       |
+| SC      | South Carolina  |       |
+| SD      | South Dakota    |       |
+| TN      | Tennessee       |       |
+| TX      | Texas           |       |
+| UT      | Utah            |       |
+| VT      | Vermont         |       |
+| VA      | Virginia        |       |
+| WA      | Washington      |       |
+| WV      | West Virginia   |       |
+| WI      | Wisconsin       |       |
+| WY      | Wyoming         |       |
+
+
+
 ## Project Overview
 The goal of this project is to provide insights into the real estate pricing trends over the years in some of the most prominent areas of the United States. We focus on metropolitan areas that are economic and cultural hubs, including:
     
@@ -62,11 +118,20 @@ Maryland
 
 West Virginia
 
-- **Washington-Arlington-Alexandria, DC-VA-MD-WV**
 
 
 **Southern US:**
 
+**Florida (FL)**
+  - **Miami/ Ft. Lauderdale Metro**
+      - **Miami-Fort Lauderdale-Pompano Beach**
+          - Broward County, Miami-Dade County, Palm Beach County
+  - **Orlando Metro**
+      - **Orlando-Kissimmee-Sanford**
+          - Lake County, Orange County, Osceola County, Seminole County
+  - **Tampa Metro**
+      - **Tampa-St. Petersburg-Clearwater**
+          - Hernando County, Hilsborough County, Pasco County, Pinellas County 
 
 **Texas (TX)**
   - **Dallas/Fort Worth Metro**
@@ -82,16 +147,7 @@ West Virginia
       - **San Antonio-New Braunfels**
           - Atascosa County, Bandera County, Bexar County, Blanco County, Comal County, Gonzales County, Guadalupe County, Kendall County, Medina County, Wilson County
     
-**Florida (FL)**
-  - **Miami/ Ft. Lauderdale Metro**
-      - **Miami-Fort Lauderdale-Pompano Beach**
-          - Broward County, Miami-Dade County, Palm Beach County
-  - **Orlando Metro**
-      - **Orlando-Kissimmee-Sanford**
-          - Lake County, Orange County, Osceola County, Seminole County
-  - **Tampa Metro**
-      - **Tampa-St. Petersburg-Clearwater**
-          - Hernando County, Hilsborough County, Pasco County, Pinellas County, 
+
  
 **West Coast:**
   - California (CA)
@@ -142,3 +198,6 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 For any queries or discussions regarding the project, please open an issue in this repository.
 
 Thank you for visiting our project, and we hope you find the insights useful for your understanding of the real estate market!
+
+
+
